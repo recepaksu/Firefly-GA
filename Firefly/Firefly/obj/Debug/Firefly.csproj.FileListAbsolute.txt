@@ -1,0 +1,40 @@
+C:\Users\Tugay\source\repos\Firefly\Firefly\bin\Debug\Firefly.exe.config
+C:\Users\Tugay\source\repos\Firefly\Firefly\bin\Debug\Firefly.exe
+C:\Users\Tugay\source\repos\Firefly\Firefly\bin\Debug\Firefly.pdb
+C:\Users\Tugay\source\repos\Firefly\Firefly\obj\Debug\Firefly.csprojAssemblyReference.cache
+C:\Users\Tugay\source\repos\Firefly\Firefly\obj\Debug\Firefly.Form1.resources
+C:\Users\Tugay\source\repos\Firefly\Firefly\obj\Debug\Firefly.Properties.Resources.resources
+C:\Users\Tugay\source\repos\Firefly\Firefly\obj\Debug\Firefly.csproj.GenerateResource.cache
+C:\Users\Tugay\source\repos\Firefly\Firefly\obj\Debug\Firefly.csproj.CoreCompileInputs.cache
+C:\Users\Tugay\source\repos\Firefly\Firefly\obj\Debug\Firefly.exe
+C:\Users\Tugay\source\repos\Firefly\Firefly\obj\Debug\Firefly.pdb
+C:\Users\Recep\Desktop\Firefly\Firefly\Firefly\bin\Debug\Firefly.exe.config
+C:\Users\Recep\Desktop\Firefly\Firefly\Firefly\bin\Debug\Firefly.exe
+C:\Users\Recep\Desktop\Firefly\Firefly\Firefly\bin\Debug\Firefly.pdb
+C:\Users\Recep\Desktop\Firefly\Firefly\Firefly\obj\Debug\Firefly.csprojAssemblyReference.cache
+C:\Users\Recep\Desktop\Firefly\Firefly\Firefly\obj\Debug\Firefly.Form1.resources
+C:\Users\Recep\Desktop\Firefly\Firefly\Firefly\obj\Debug\Firefly.Properties.Resources.resources
+C:\Users\Recep\Desktop\Firefly\Firefly\Firefly\obj\Debug\Firefly.csproj.GenerateResource.cache
+C:\Users\Recep\Desktop\Firefly\Firefly\Firefly\obj\Debug\Firefly.csproj.CoreCompileInputs.cache
+C:\Users\Recep\Desktop\Firefly\Firefly\Firefly\obj\Debug\Firefly.exe
+C:\Users\Recep\Desktop\Firefly\Firefly\Firefly\obj\Debug\Firefly.pdb
+C:\Users\Recep\Desktop\FireflyAnimasyon\Firefly\Firefly\bin\Debug\Firefly.exe.config
+C:\Users\Recep\Desktop\FireflyAnimasyon\Firefly\Firefly\bin\Debug\Firefly.exe
+C:\Users\Recep\Desktop\FireflyAnimasyon\Firefly\Firefly\bin\Debug\Firefly.pdb
+C:\Users\Recep\Desktop\FireflyAnimasyon\Firefly\Firefly\obj\Debug\Firefly.csprojAssemblyReference.cache
+C:\Users\Recep\Desktop\FireflyAnimasyon\Firefly\Firefly\obj\Debug\Firefly.Form1.resources
+C:\Users\Recep\Desktop\FireflyAnimasyon\Firefly\Firefly\obj\Debug\Firefly.Properties.Resources.resources
+C:\Users\Recep\Desktop\FireflyAnimasyon\Firefly\Firefly\obj\Debug\Firefly.csproj.GenerateResource.cache
+C:\Users\Recep\Desktop\FireflyAnimasyon\Firefly\Firefly\obj\Debug\Firefly.csproj.CoreCompileInputs.cache
+C:\Users\Recep\Desktop\FireflyAnimasyon\Firefly\Firefly\obj\Debug\Firefly.exe
+C:\Users\Recep\Desktop\FireflyAnimasyon\Firefly\Firefly\obj\Debug\Firefly.pdb
+C:\Users\HASAN\Desktop\2018-2019 Dönemi\Esnek Hesaplama\Firefly\Firefly\bin\Debug\Firefly.exe.config
+C:\Users\HASAN\Desktop\2018-2019 Dönemi\Esnek Hesaplama\Firefly\Firefly\bin\Debug\Firefly.exe
+C:\Users\HASAN\Desktop\2018-2019 Dönemi\Esnek Hesaplama\Firefly\Firefly\bin\Debug\Firefly.pdb
+C:\Users\HASAN\Desktop\2018-2019 Dönemi\Esnek Hesaplama\Firefly\Firefly\obj\Debug\Firefly.csprojAssemblyReference.cache
+C:\Users\HASAN\Desktop\2018-2019 Dönemi\Esnek Hesaplama\Firefly\Firefly\obj\Debug\Firefly.Form1.resources
+C:\Users\HASAN\Desktop\2018-2019 Dönemi\Esnek Hesaplama\Firefly\Firefly\obj\Debug\Firefly.Properties.Resources.resources
+C:\Users\HASAN\Desktop\2018-2019 Dönemi\Esnek Hesaplama\Firefly\Firefly\obj\Debug\Firefly.csproj.GenerateResource.cache
+C:\Users\HASAN\Desktop\2018-2019 Dönemi\Esnek Hesaplama\Firefly\Firefly\obj\Debug\Firefly.csproj.CoreCompileInputs.cache
+C:\Users\HASAN\Desktop\2018-2019 Dönemi\Esnek Hesaplama\Firefly\Firefly\obj\Debug\Firefly.exe
+C:\Users\HASAN\Desktop\2018-2019 Dönemi\Esnek Hesaplama\Firefly\Firefly\obj\Debug\Firefly.pdb
